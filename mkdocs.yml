@@ -1,10 +1,10 @@
-site_name: DivstackIO Docs Sample
-site_url: https://isolveit.github.io/divstack_io/
+site_name: Onibolt Docs Site
+site_url: https://docs.onibolt.com
 copyright: Copyright &copy; 2022
 
 # Repository information
-repo_name: iSOLveIT/divstack_io
-repo_url: https://github.com/iSOLveIT/divstack_io
+repo_name: onibolt/docs-site
+repo_url: https://github.com/onibolt/docs-site
 edit_uri: edit/main/docs/docs/
 
 nav:
