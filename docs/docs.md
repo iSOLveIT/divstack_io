@@ -6,13 +6,6 @@ The document explains how to set up a robust documentation system using
 MkDocs, GitHub and GitHub Actions, and any server that integrates with
 GitHub.
 
-You can find the source codes and website of the sample in the links
-below:
-
--   Source code - [https://github.com/iSOLveIT/mkdocs-gen](https://github.com/iSOLveIT/mkdocs-gen)
-
--   Website - [https://resources.breadboardmates.com](https://resources.breadboardmates.com/)
-
 Topics covered in this document are:
 
 -   Setting up MkDocs application or working environment on local machine
